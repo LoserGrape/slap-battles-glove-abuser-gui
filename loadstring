@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LoserGrape/slap-battles-glove-abuser-gui/main/Gloves-Abuser.txt"))()
